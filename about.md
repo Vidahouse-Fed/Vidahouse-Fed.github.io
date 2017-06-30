@@ -12,6 +12,6 @@ permalink: /about/
 ###
 
 
-### Contact me
+### Contact us
 
 [linch.lu@vidahouse.com](mailto:linch.lu@vidahouse.com)
